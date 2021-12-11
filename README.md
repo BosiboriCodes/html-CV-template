@@ -1,2 +1,2 @@
-# html-CV-template
-Curricurum Vitae made with pure HTML  and CSS
+# HTML5-CV-template
+Curriculum Vitae made with pure HTML  and CSS
